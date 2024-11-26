@@ -1,0 +1,5 @@
+# requirements.txt
+
+# ShadowOps does not have external runtime dependencies.
+# If in the future ShadowOps requires external packages, list them below.
+
